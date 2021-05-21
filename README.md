@@ -1,1 +1,3 @@
 # math_156_project
+
+This project is about applying non negative matric factorization to networks. Still deciding what type of dataset to apply to...
